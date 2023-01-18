@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ProductManagementProgramLinq.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ProductManagementProgramLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ProductManagementProgramLinq.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ProductManagementProgramLinq.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ProductManagementProgramLinq.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\bin\Debug\net6.0\ProductManagementProgramLinq.exe
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\bin\Debug\net6.0\ProductManagementProgramLinq.deps.json
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\bin\Debug\net6.0\ProductManagementProgramLinq.runtimeconfig.json
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\bin\Debug\net6.0\ProductManagementProgramLinq.dll
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\bin\Debug\net6.0\ProductManagementProgramLinq.pdb
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ProductManagementProgramLinq.dll
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\refint\ProductManagementProgramLinq.dll
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ProductManagementProgramLinq.pdb
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ProductManagementProgramLinq.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ProductManagementProgramLinq\ProductManagementProgramLinq\obj\Debug\net6.0\ref\ProductManagementProgramLinq.dll
